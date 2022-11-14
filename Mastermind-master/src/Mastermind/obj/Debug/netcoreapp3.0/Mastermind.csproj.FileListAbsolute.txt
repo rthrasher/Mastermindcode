@@ -1,0 +1,14 @@
+C:\Users\rthra\Desktop\Mastermind-master\src\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.exe
+C:\Users\rthra\Desktop\Mastermind-master\src\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.deps.json
+C:\Users\rthra\Desktop\Mastermind-master\src\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.runtimeconfig.json
+C:\Users\rthra\Desktop\Mastermind-master\src\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.runtimeconfig.dev.json
+C:\Users\rthra\Desktop\Mastermind-master\src\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.dll
+C:\Users\rthra\Desktop\Mastermind-master\src\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.pdb
+C:\Users\rthra\Desktop\Mastermind-master\src\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.csproj.AssemblyReference.cache
+C:\Users\rthra\Desktop\Mastermind-master\src\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rthra\Desktop\Mastermind-master\src\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.AssemblyInfoInputs.cache
+C:\Users\rthra\Desktop\Mastermind-master\src\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.AssemblyInfo.cs
+C:\Users\rthra\Desktop\Mastermind-master\src\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\rthra\Desktop\Mastermind-master\src\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.dll
+C:\Users\rthra\Desktop\Mastermind-master\src\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.pdb
+C:\Users\rthra\Desktop\Mastermind-master\src\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.genruntimeconfig.cache
